@@ -1,3 +1,4 @@
-/settings
+# Eclipse files
 *.classpath
 *.project
+/.settings
